@@ -284,3 +284,135 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:11:50.991
 !MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:11.061
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:11.752
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.027
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.028
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.097
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.369
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.370
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.371
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.372
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.379
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.661
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.661
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.662
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.662
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:12.669
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:37.823
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:37.833
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:37.870
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:37.870
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:41:37.902
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:22.587
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:22.587
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:22.773
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:22.779
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.261
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.526
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.526
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.531
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.678
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.679
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.679
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.680
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:43:59.689
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:00.065
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:00.066
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:00.067
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:00.068
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:00.073
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:07.742
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:07.750
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:08.133
+!MESSAGE buffering callback sts4.classpath.lSwdRksi Outils false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:08.133
+!MESSAGE executing callback sts4.classpath.lSwdRksi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-08 23:44:08.158
+!MESSAGE executing callback sts4.classpath.lSwdRksi SUCCESS [done]
