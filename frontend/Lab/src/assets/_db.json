@@ -1,0 +1,18 @@
+{
+    "members":[
+        {"id":"123456789",
+        "cin":"123456789",
+        "name":"membre1",
+        "createdDate":"1234",
+        "type":"student",
+        "cv":"445"
+        },
+        {"id":"12345",
+            "cin":"123456789",
+            "name":"membre2",
+            "createdDate":"1234",
+            "cv":"55",
+            "type":"teacher"
+        }
+    ]
+}

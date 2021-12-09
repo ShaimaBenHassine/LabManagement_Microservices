@@ -1,0 +1,8 @@
+.example-container .mat-form-field + .mat-form-field {
+    margin-left: 8px;
+    width:50%
+  }
+form{
+background-color:beige;
+
+}

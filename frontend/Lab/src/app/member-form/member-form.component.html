@@ -1,0 +1,29 @@
+<form [formGroup]="form" (ngSubmit)="onSub()">
+    <p>
+    <mat-form-field appearance="legacy">
+      <mat-label>cin</mat-label>
+      <input matInput placeholder="cin" formControlName="cin">
+    </mat-form-field>
+    </p>
+    <p>
+    <mat-form-field appearance="legacy">
+      <mat-label>name</mat-label>
+      <input matInput placeholder="name" formControlName="name">
+    </mat-form-field>
+    </p>
+    <p>
+    <mat-form-field appearance="legacy">
+     <mat-label>cv</mat-label>
+    <input matInput placeholder="cv" formControlName="cv">
+     </mat-form-field>
+    </p>
+     <p>
+    <mat-form-field appearance="legacy">
+      <mat-label>type</mat-label>
+      <input matInput placeholder="type" formControlName="type">
+    </mat-form-field>
+    </p>
+    <p>
+      <button type="submit">create member</button>
+    </p>
+    </form>
